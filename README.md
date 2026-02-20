@@ -1,9 +1,7 @@
 # csa-js
 
 ![version](https://img.shields.io/badge/version-0.1-orange)
-![license](https://img.shields.io/badge/license-MIT-lightgrey)
 ![size](https://img.shields.io/badge/size-49kb-blue)
-
 ---
 
 ## Installation
@@ -140,7 +138,3 @@ Closes all active player instances.
 | `Escape` | Close settings or player |
 
 ---
-
-## License
-
-MIT
